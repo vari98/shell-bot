@@ -31,7 +31,6 @@ https://github.com/vari98/shell-bot
 - got to end of READMe.md file and replace `your_repo_url` with you shell-bot's repo URL and save file.
 - Now in config.json file, fill your Bot Token and Owner ID
 - now go to .config/rclone folder and put your rclone config file (for rclone)
-- go to accounts folder and upload your service accounts json file (for folderclone)
 Now its been all done, Now simply open your repo and click on **Deploy to Heroku** button.
 
 # READMe of official shell-bot
