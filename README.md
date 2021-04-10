@@ -7,7 +7,6 @@ command by replying to the output messages.
 - Must follow this guide for automatic installing these useful softwares
 ```
 rclone
-folderclone
 ffmpeg
 youtube-dl
 streamlink
@@ -24,7 +23,7 @@ p7zip (support almost every archive type except rar)
 > Then click on **Create Repository**
 > Go to down and click on **Import code** and paste this :
 ```
-https://github.com/magneto261290/shell-bot
+https://github.com/vari98/shell-bot
 ```
 > Click on **Begin Import**
 > Wait for importing to be finished
@@ -131,4 +130,4 @@ node server
 Deploy to heroku
 ```
 **Click this button to deploy to heroku**
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=your_repo_url)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vari98/shell-bot)
